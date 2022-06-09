@@ -1,0 +1,8 @@
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\MethodLib\bin\Debug\netstandard1.4\MethodLib.deps.json
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\MethodLib\bin\Debug\netstandard1.4\MethodLib.dll
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\MethodLib\bin\Debug\netstandard1.4\MethodLib.pdb
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\MethodLib\obj\Debug\netstandard1.4\MethodLib.csprojAssemblyReference.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\MethodLib\obj\Debug\netstandard1.4\MethodLib.csproj.CoreCompileInputs.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\MethodLib\obj\Debug\netstandard1.4\MethodLib.AssemblyInfo.cs
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\MethodLib\obj\Debug\netstandard1.4\MethodLib.dll
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\MethodLib\obj\Debug\netstandard1.4\MethodLib.pdb

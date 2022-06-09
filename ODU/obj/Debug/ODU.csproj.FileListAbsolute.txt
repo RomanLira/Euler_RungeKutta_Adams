@@ -1,0 +1,13 @@
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\bin\Debug\ODU.exe.config
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\bin\Debug\ODU.exe
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\bin\Debug\ODU.pdb
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\obj\Debug\ODU.csprojAssemblyReference.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\obj\Debug\ODU.Form1.resources
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\obj\Debug\ODU.Properties.Resources.resources
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\obj\Debug\ODU.csproj.GenerateResource.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\obj\Debug\ODU.csproj.CoreCompileInputs.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\obj\Debug\ODU.exe
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\obj\Debug\ODU.pdb
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\bin\Debug\MethodLib.dll
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\bin\Debug\MethodLib.pdb
+C:\Users\lirca\Desktop\Флэшка\3 курс\ЧМ\ODU\ODU\obj\Debug\ODU.csproj.CopyComplete
